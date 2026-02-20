@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "798166462991",
+    "firebase_url": "https://galaxy-attack-space-shooter-2.firebaseio.com",
+    "project_id": "galaxy-attack-space-shooter-2",
+    "storage_bucket": "galaxy-attack-space-shooter-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798166462991:android:eb528841aea9613b",
+        "android_client_info": {
+          "package_name": "com.game.space.shooter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798166462991-ft4i4jfb0u54nt5otcmnfakco1t3hmhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.game.space.shooter2",
+            "certificate_hash": "a23e395654c8a8d68cba175c3e01a74e0314a76d"
+          }
+        },
+        {
+          "client_id": "798166462991-oem5sr7e4e24mdroekqilh5sct71dcat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRBMgSderCtAXjkSV0t-bbVr3pN15dW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798166462991-9ta3barue6pa1neibus9n91g9cspiaap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798166462991-3aj1kd3krdt9hm65ev69tvj7t49t6k8o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1225548580"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
